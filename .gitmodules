@@ -1,0 +1,15 @@
+[submodule "mall-coupon"]
+	path = mall-coupon
+	url = git@github.com:wucunqi/mall-coupon.git
+[submodule "mall-order"]
+	path = mall-order
+	url = git@github.com:wucunqi/mall-order.git
+[submodule "mall-member"]
+	path = mall-member
+	url = git@github.com:wucunqi/mall-member.git
+[submodule "mall-product"]
+	path = mall-product
+	url = git@github.com:wucunqi/mall-product.git
+[submodule "mall-storage"]
+	path = mall-storage
+	url = git@github.com:wucunqi/mall-storage.git
